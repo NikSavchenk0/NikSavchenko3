@@ -1,4 +1,4 @@
-### Hi there, I'm Dominus! 👋
+### Hi there, I'm Nik! 👋
 I'm a high school developer who is interested in how computers work all the way to artificial intelligence.
 I usually code with Lua, Node.JS, C#, and C++ although, I plan on learning Python.
 
